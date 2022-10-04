@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-home-appliance/static/css/main.57fbe117.css",
+    "main.js": "/react-home-appliance/static/js/main.5d466ea0.js",
+    "static/js/787.0420ccf9.chunk.js": "/react-home-appliance/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/react-home-appliance/index.html",
+    "main.57fbe117.css.map": "/react-home-appliance/static/css/main.57fbe117.css.map",
+    "main.5d466ea0.js.map": "/react-home-appliance/static/js/main.5d466ea0.js.map",
+    "787.0420ccf9.chunk.js.map": "/react-home-appliance/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57fbe117.css",
+    "static/js/main.5d466ea0.js"
+  ]
+}
